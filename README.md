@@ -1,3 +1,4 @@
 # hello-world2
 ===
-testing out Git
+testing out Git and pushing it to Git Hub
+
